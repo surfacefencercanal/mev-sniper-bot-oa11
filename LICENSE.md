@@ -1,4 +1,4 @@
-# 
+# secure MEV sniper bot | arbitrage-opportunities + snipe-list-management is the best MEV sniper bot, featuring arbitrage-opportunities and snipe-list-management. Fast, smart, and
 
 
 
